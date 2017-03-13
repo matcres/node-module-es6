@@ -1,13 +1,9 @@
-# Node Module Scaffolding
-Node Module in ES6
+# Node Module Seed Scaffolding
+Node Module Seed in ES6
  
 
-## Working on:
-
-
-### Features
+## Features
 
 - ES6
 - Eslint
-- debug
 - bluebird
